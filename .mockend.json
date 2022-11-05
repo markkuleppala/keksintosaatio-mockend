@@ -63,6 +63,22 @@
                 ,"Legal"
                 ,"HR"
                 ]
-          }
+          },
+          "ideaDescription": {
+            "string": ["An imaginary invention that makes the wearer invisible.",
+                       "An imaginary invention that can take the user through time.",
+                       "An imaginary weapon that is made of pure light.",
+                       "An imaginary space station with the power to destroy planets.",
+                       "An imaginary barrier that can repel any attack.",
+                       ]
+          },          
+          "ideaName: {
+            "string": ["Invisibility Cloak",
+                       "Time Machine",
+                       "Light Saber",
+                       "Death Star",
+                       "Force Field",
+                       ]
+        }
     }
 }
