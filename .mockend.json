@@ -8,7 +8,7 @@
           "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
       },
       "maturityPref": {
-        "string": [],
+        "string": {},
         "hasMany": "Maturity"
       }
     },
