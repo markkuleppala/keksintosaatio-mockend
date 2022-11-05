@@ -50,10 +50,4 @@
             ]
       }
     },
-    "Inventor": {
-      "body": { "string": {} },
-      "post": {
-        "belongsTo": "Post"
-      }
-    }
   }
