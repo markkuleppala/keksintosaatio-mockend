@@ -6,15 +6,12 @@
       },
       "maturity": {
           "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
-      },
+      }
     },
     "Inventor": {
       "body": { "string": {} },
       "post": {
         "belongsTo": "Post"
-      },
-      "userComments": {
-        "hasMany": "Expert"
-      }  
+      }
     }
   }
