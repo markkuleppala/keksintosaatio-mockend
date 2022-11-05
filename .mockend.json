@@ -6,6 +6,10 @@
       },
       "maturity": {
           "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
+      },
+      "maturityPref": {
+        "string": [],
+        "hasMany": "Maturity"
       }
     },
     "Inventor": {
