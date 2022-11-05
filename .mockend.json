@@ -1,13 +1,21 @@
 {
     "Expert": {
-      "name": { "loremWord": {} },
+      "firstName": { 
+        "string": ["Alex", "Alice", "Antonio", "Bob", "Dani", "Elena" ,"Emma", "Giovanni", "Hailey" ,"Ines"]
+      },
+      "lastName": { 
+        "string": ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martin"]
+      },
       "experience": {
         "int": [1,3,5,7,10,15,20,25]
       },
       "maturityPref": {
-        "string": {
-            "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
-        }
+        "options": [
+            
+        ]
+      }
+      "maturity": {
+        "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
       },
       "industry": {
         "string":["Information technology and services"
