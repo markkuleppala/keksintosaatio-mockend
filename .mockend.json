@@ -10,42 +10,13 @@
         "int": [1,3,5,7,10,15,20,25]
       },
       "maturity": {
-        "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
+        "string": ["Commercializing,Scaling","Prototyping","Ideating,Prototyping,Scaling","Commercializing,Prototyping","Funding,Prototyping,Scaling","Funding,Ideating,Prototyping","Commercializing,Prototyping","Commercializing,Ideating","Ideating,Prototyping,Scaling","Prototyping","Funding","Commercializing,Funding,Scaling","Funding,Scaling","Prototyping","Ideating,Prototyping,Scaling","Commercializing,Funding,Scaling","Ideating,Prototyping,Scaling","Commercializing,Funding,Ideating","Commercializing,Funding,Prototyping","Funding"]
       },
       "industry": {
-        "string":["Information technology and services"
-            ,"Hospital & Health care"
-            ,"Construction"
-            ,"Retail"
-            ,"Education"
-            ,"Financial services"
-            ,"Accounting"
-            ,"Automotive"
-            ,"Consulting"
-            ,"Real Estate"
-            ,"Food & Beverages"
-            ,"Telecommunications"
-            ,"Agriculture"
-            ,"Chemicals"
-            ,"Hospitality"
-            ,"Mechanical and electrical engineering"
-            ]
+        "string": ["Hospital & Health care,Hospitality,Real Estate","Agriculture","Education,Food & Beverages","Financial services,Hospital & Health care,Mechanical and electrical engineering","Mechanical and electrical engineering,Telecommunications","Agriculture,Automotive,Mechanical and electrical engineering","Food & Beverages,Mechanical and electrical engineering,Real Estate","Accounting,Education","Consulting","Agriculture,Financial services","Hospitality,Telecommunications","Hospital & Health care","Agriculture,Hospital & Health care,Telecommunications","Telecommunications","Construction","Agriculture,Automotive,Financial services","Chemicals,Consulting","Hospitality,Mechanical and electrical engineering,Retail","Consulting","Hospital & Health care"]
       },
       "expertise": {
-        "string": ["Development"
-            ,"Market research"
-            ,"Engineering"
-            ,"Design"
-            ,"Testing and quality assurance"
-            ,"Marketing"
-            ,"Sales"
-            ,"Manufacturing"
-            ,"Patenting"
-            ,"Strategy"
-            ,"Finance"
-            ,"Legal"
-            ,"HR"
-            ]
+        "string": ["Design,Engineering,Market research","Manufacturing,Marketing","Sales","Finance,Patenting,Testing and quality assurance","Finance,Testing and quality assurance","Development,HR,Testing and quality assurance","Legal","Legal,Patenting","Engineering","Finance,Strategy","Finance","HR,Manufacturing,Testing and quality assurance","Marketing,Sales","Patenting,Testing and quality assurance","Development,Patenting,Testing and quality assurance","Marketing,Strategy,Testing and quality assurance","Development","Strategy","Engineering,Finance","Development,Manufacturing,Testing and quality assurance"]
       }
     }
   }
