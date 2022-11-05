@@ -1,6 +1,8 @@
 {
     "Maturity": {
+        "name": {
             "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
+        }
     },
     "Expert": {
       "firstName": { 
