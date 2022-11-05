@@ -5,11 +5,42 @@
         "int": [1,3,5,7,10,15,20,25]
       },
       "maturity": {
-          "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
+        "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
       },
-      "maturityPref": {
-        "string": {},
-        "hasMany": "Maturity"
+      "industry": {
+        "string":["Information technology and services"
+            ,"Hospital & Health care"
+            ,"Construction"
+            ,"Retail"
+            ,"Education"
+            ,"Financial services"
+            ,"Accounting"
+            ,"Automotive"
+            ,"Consulting"
+            ,"Real Estate"
+            ,"Food & Beverages"
+            ,"Telecommunications"
+            ,"Agriculture"
+            ,"Chemicals"
+            ,"Hospitality"
+            ,"Mechanical and electrical engineering"
+            ]
+      },
+      "expertise": {
+        "string": ["Development"
+            ,"Market research"
+            ,"Engineering"
+            ,"Design"
+            ,"Testing and quality assurance"
+            ,"Marketing"
+            ,"Sales"
+            ,"Manufacturing"
+            ,"Patenting"
+            ,"Strategy"
+            ,"Finance"
+            ,"Legal"
+            ,"HR"
+            ]
       }
     },
     "Inventor": {
@@ -17,10 +48,5 @@
       "post": {
         "belongsTo": "Post"
       }
-    },
-    "Maturity": {
-        "title": {
-            "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
-        }
     }
   }
