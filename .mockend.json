@@ -1,9 +1,4 @@
 {
-    "Maturity": {
-        "name": {
-            "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
-        }
-    },
     "Expert": {
       "firstName": { 
         "string": ["Alex", "Alice", "Antonio", "Bob", "Dani", "Elena" ,"Emma", "Giovanni", "Hailey" ,"Ines"]
@@ -15,7 +10,7 @@
         "int": [1,3,5,7,10,15,20,25]
       },
       "maturity": {
-        "hasMany": "Maturity"
+        "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
       },
       "industry": {
         "string":["Information technology and services"
