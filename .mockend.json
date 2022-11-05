@@ -69,15 +69,15 @@
                        "An imaginary invention that can take the user through time.",
                        "An imaginary weapon that is made of pure light.",
                        "An imaginary space station with the power to destroy planets.",
-                       "An imaginary barrier that can repel any attack.",
+                       "An imaginary barrier that can repel any attack."
                        ]
           },          
-          "ideaName: {
+          "ideaName": {
             "string": ["Invisibility Cloak",
                        "Time Machine",
                        "Light Saber",
                        "Death Star",
-                       "Force Field",
+                       "Force Field"
                        ]
         }
     }
