@@ -1,11 +1,13 @@
 {
     "Expert": {
-      "title": { "string": {} },
+      "name": { "loremWord": {} },
       "experience": {
         "int": [1,3,5,7,10,15,20,25]
       },
-      "maturity": {
-        "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
+      "maturityPref": {
+        "string": [
+            "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
+        ]
       },
       "industry": {
         "string":["Information technology and services"
