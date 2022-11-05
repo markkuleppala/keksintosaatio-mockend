@@ -13,5 +13,8 @@
       "post": {
         "belongsTo": "Post"
       }
+    },
+    "Maturity": {
+        "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
     }
   }
