@@ -3,12 +3,7 @@
       "title": { "string": {} },
       "experience": {
         "int": [1,3,5,7,10,15,20,25]
-      },
-      "maturityPref": {
-        "array": {
-            "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
-        }
-      },
+      }
     },
     "Inventor": {
       "body": { "string": {} },
