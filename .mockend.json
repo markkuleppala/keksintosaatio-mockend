@@ -4,10 +4,9 @@
       "experience": {
         "int": [1,3,5,7,10,15,20,25]
       },
-      "maturityPreferences": {
-        "type": "array",
-        "options": {
-            "string":["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
+      "maturityPref": {
+        "array": {
+            "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
         }
       },
     },
