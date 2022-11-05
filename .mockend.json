@@ -18,5 +18,51 @@
       "expertise": {
         "string": ["Design,Engineering,Market research","Manufacturing,Marketing","Sales","Finance,Patenting,Testing and quality assurance","Finance,Testing and quality assurance","Development,HR,Testing and quality assurance","Legal","Legal,Patenting","Engineering","Finance,Strategy","Finance","HR,Manufacturing,Testing and quality assurance","Marketing,Sales","Patenting,Testing and quality assurance","Development,Patenting,Testing and quality assurance","Marketing,Strategy,Testing and quality assurance","Development","Strategy","Engineering,Finance","Development,Manufacturing,Testing and quality assurance"]
       }
+    },
+    "Inventor": {
+        "firstName": { 
+          "string": ["Alex", "Alice", "Antonio", "Bob", "Dani", "Elena" ,"Emma", "Giovanni", "Hailey" ,"Ines"]
+        },
+        "lastName": { 
+          "string": ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martin"]
+        },
+        "maturity": {
+            "string": ["Ideating", "Prototyping", "Commercializing", "Scaling", "Funding"]
+        },
+        "industry": {
+            "string":["Information technology and services"
+                ,"Hospital & Health care"
+                ,"Construction"
+                ,"Retail"
+                ,"Education"
+                ,"Financial services"
+                ,"Accounting"
+                ,"Automotive"
+                ,"Consulting"
+                ,"Real Estate"
+                ,"Food & Beverages"
+                ,"Telecommunications"
+                ,"Agriculture"
+                ,"Chemicals"
+                ,"Hospitality"
+                ,"Mechanical and electrical engineering"
+                ]
+          },
+          "expertise": {
+            "string": ["Development"
+                ,"Market research"
+                ,"Engineering"
+                ,"Design"
+                ,"Testing and quality assurance"
+                ,"Marketing"
+                ,"Sales"
+                ,"Manufacturing"
+                ,"Patenting"
+                ,"Strategy"
+                ,"Finance"
+                ,"Legal"
+                ,"HR"
+                ]
+          }
     }
-  }
+}
